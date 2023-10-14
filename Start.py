@@ -74,7 +74,7 @@ def run():
 
     st.markdown(
         """
-        It is recommand to start NMAP page to scan your target then, and get the basic information of your pentesing target
+        It is recommand to start NMAP page to scan your target , and get the basic information of your pentesing target
         """
     )
     st.info("note : please do not let others visit your streamlit website! It is dangerous!")
