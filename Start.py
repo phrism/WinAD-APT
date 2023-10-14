@@ -36,14 +36,15 @@ def run():
     </style>
     '''
     st.markdown(css, unsafe_allow_html=True)
-    st.write("# Welcome to WADH framework demo! 👋")
+    st.write("# Welcome to WinAD-APT! 👋")
 
     st.sidebar.success("Select a demo above.")
 
     st.markdown(
         """
-        This framework is made using streamlit and python, which is used to make windows AD exploit more easily. 
-        The framework is still being developed, it is welcomed to commnicate and develop together
+        WinAD-APT is for windows AD auto pentesting framework,
+        this framework is made using streamlit and python, which is used to make windows AD exploit more easily. 
+        The framework is still being developed, it is welcomed to commnicate and share some ideas.
         **👈 Select a demo from the sidebar** to start your windows AD hacking journey
         ### What can this framwork do?
         - Simple nmap function for entrence ip
