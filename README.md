@@ -40,11 +40,11 @@ Apart from impacket, there are other software or tool you should install, you ca
 
 Screenshot
 ==========
-![RUNOOB 1](https://github.com/phrism/WinAD-APT/tree/main/screenshot/1.png)
-![RUNOOB 2](https://github.com/phrism/WinAD-APT/tree/main/screenshot/2.png)
-![RUNOOB 3](https://github.com/phrism/WinAD-APT/tree/main/screenshot/3.png)
-![RUNOOB 4](https://github.com/phrism/WinAD-APT/tree/main/screenshot/4.png)
-![RUNOOB 5](https://github.com/phrism/WinAD-APT/tree/main/screenshot/5.png)
+![image](./screenshot/1.png)
+![image](./screenshot/2.png)
+![image](./screenshot/3.png)
+![image](./screenshot/4.png)
+![image](./screenshot/5.png)
 
 
 
